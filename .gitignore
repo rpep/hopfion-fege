@@ -1,0 +1,16 @@
+*~
+*.swp
+*.pdf
+*.aux
+*.bbl
+*.log
+*.vtk
+*.h5
+results/
+*.blg
+*.pyc
+*.geo
+*.msh
+*.xml
+*.out
+*.ndt
